@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+ <!-- Create a submenu by putting a menu element inside of an 
+    	item element.  You cannot have a submenu within a submenu -->
+   <item
+        android:id="@+id/activity1"
+        android:icon="@drawable/marker"
+        android:title="@string/act1"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/calculator"
+        android:title="@string/title_activity_calculator"
+        android:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/activity2"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/second"/>
+
+         <!-- Action bar items -->
+       <item
+        android:id="@+id/btnLoad"
+        android:icon="@drawable/load"
+        android:orderInCategory="1"
+        android:title="@string/load"
+        android:showAsAction="always|withText"/>
+	   
+    	<item
+        android:id="@+id/btnSave"
+        android:orderInCategory="2"
+        android:showAsAction="always"
+        android:title="@string/save"
+        android:icon="@drawable/save"/>
+    	
+    	<item
+    	android:id="@+id/btnNew"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/newI"
+        android:icon="@drawable/newfile"/>
+
+</menu>

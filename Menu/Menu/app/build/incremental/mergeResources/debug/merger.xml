@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\jgillis\Downloads\Menu\app\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="load"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-hdpi\load.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="marker"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-hdpi\marker.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="newfile"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-hdpi\newfile.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="save"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-hdpi\save.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-ldpi\ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="marker"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-ldpi\marker.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="load"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-mdpi\load.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="marker"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-mdpi\marker.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="newfile"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-mdpi\newfile.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="save"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-mdpi\save.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="load"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-xhdpi\load.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="marker"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-xhdpi\marker.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="newfile"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-xhdpi\newfile.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="save"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\drawable-xhdpi\save.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="activity_calculator"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\layout\activity_calculator.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_second"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\layout\activity_second.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_calculator"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\menu\activity_calculator.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="activity_main"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\menu\activity_main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="activity_second"
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\menu\activity_second.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="title_activity_calculator" >Calculator
+                </string>
+                <string name="second" >Second Activity
+                </string>
+                <string name="newI" >New
+                </string>
+                <string name="save" >Save
+                </string>
+                <string name="title_activity_menu_handler" >MenuHandler
+                </string>
+                <string name="app_name" >Menu
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="load" >Load
+                </string>
+                <string name="act1" >Activity
+                </string>
+                <string name="menu_settings" >Settings
+                </string>
+            </file>
+            <file
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\jgillis\Downloads\Menu\app\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="C:\Users\jgillis\Downloads\Menu\app\build\res\rs\debug" />
+        <source path="C:\Users\jgillis\Downloads\Menu\app\build\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\jgillis\Downloads\Menu\app\src\debug\res" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\jgillis\Downloads\HelloFormStuff\app\src\main\res" >
+            <file
+                name="android_button"
+                path="C:\Users\jgillis\Downloads\HelloFormStuff\app\src\main\res\drawable-hdpi\android_button.xml"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="android_focused"
+                path="C:\Users\jgillis\Downloads\HelloFormStuff\app\src\main\res\drawable-hdpi\android_focused.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="android_normal"
+                path="C:\Users\jgillis\Downloads\HelloFormStuff\app\src\main\res\drawable-hdpi\android_normal.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="android_pressed"
+                path="C:\Users\jgillis\Downloads\HelloFormStuff\app\src\main\res\drawable-hdpi\android_pressed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\jgillis\Downloads\HelloFormStuff\app\src\main\res\drawable-hdpi\icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\jgillis\Downloads\HelloFormStuff\app\src\main\res\drawable-ldpi\icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\jgillis\Downloads\HelloFormStuff\app\src\main\res\drawable-mdpi\icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="list_item"
+                path="C:\Users\jgillis\Downloads\HelloFormStuff\app\src\main\res\layout\list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\jgillis\Downloads\HelloFormStuff\app\src\main\res\layout\main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="other"
+                path="C:\Users\jgillis\Downloads\HelloFormStuff\app\src\main\res\layout\other.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="C:\Users\jgillis\Downloads\HelloFormStuff\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string-array name="countries_array" >
+                    <item>
+Bahrain
+                    </item>
+                    <item>
+Bangladesh
+                    </item>
+                    <item>
+Barbados
+                    </item>
+                    <item>
+Belarus
+                    </item>
+                    <item>
+Belgium
+                    </item>
+                    <item>
+Belize
+                    </item>
+                    <item>
+Benin
+                    </item>
+                </string-array>
+
+                <string name="app_name" >HelloFormStuff
+                </string>
+
+                <string-array name="test_strings" >
+                    <item/>
+                </string-array>
+
+                <string name="planet_prompt" >Choose a planet
+                </string>
+
+                <string-array name="planets_array" >
+                    <item>
+Mercury
+                    </item>
+                    <item>
+Venus
+                    </item>
+                    <item>
+Earth
+                    </item>
+                    <item>
+Mars
+                    </item>
+                    <item>
+Jupiter
+                    </item>
+                    <item>
+Saturn
+                    </item>
+                    <item>
+Uranus
+                    </item>
+                    <item>
+Neptune
+                    </item>
+                </string-array>
+            </file>
+        </source>
+        <source path="C:\Users\jgillis\Downloads\HelloFormStuff\app\build\res\rs\debug" />
+        <source path="C:\Users\jgillis\Downloads\HelloFormStuff\app\build\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\jgillis\Downloads\HelloFormStuff\app\src\debug\res" />
+    </dataSet>
+
+</merger>

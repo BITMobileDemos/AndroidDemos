@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.menu"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <!--
+     The action bar is included in all activities that use the 
+	Theme.Holo theme (or one of its descendants), which is the default 
+	theme when either the targetSdkVersion or minSdkVersion attribute 
+	is set to "11" or greater.
+    -->
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="17" />
+
+    <!--
+     The action bar can be removed by setting 
+	android:theme to @android:style/Theme.Holo.NoActionBar
+    -->
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.menu.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.menu.Calculator"
+            android:label="@string/title_activity_calculator" >
+        </activity>
+        <activity
+            android:name="com.example.menu.Second"
+            android:label="@string/second" >
+        </activity>
+        <activity
+            android:name="com.example.menu.MenuHandler"
+            android:label="@string/title_activity_menu_handler" >
+        </activity>
+    </application>
+
+</manifest>

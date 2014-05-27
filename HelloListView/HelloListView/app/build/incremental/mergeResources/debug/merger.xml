@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\jgillis\Downloads\HelloListView\app\src\main\res" >
+            <file
+                name="icon"
+                path="C:\Users\jgillis\Downloads\HelloListView\app\src\main\res\drawable-hdpi\icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\jgillis\Downloads\HelloListView\app\src\main\res\drawable-ldpi\icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\jgillis\Downloads\HelloListView\app\src\main\res\drawable-mdpi\icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="list_item"
+                path="C:\Users\jgillis\Downloads\HelloListView\app\src\main\res\layout\list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\jgillis\Downloads\HelloListView\app\src\main\res\layout\main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="C:\Users\jgillis\Downloads\HelloListView\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string-array name="countries_array" >
+                    <item>
+Bahrain
+                    </item>
+                    <item>
+Bangladesh
+                    </item>
+                    <item>
+Barbados
+                    </item>
+                    <item>
+Belarus
+                    </item>
+                    <item>
+Belgium
+                    </item>
+                    <item>
+Belize
+                    </item>
+                    <item>
+Benin
+                    </item>
+                </string-array>
+
+                <string name="app_name" >HelloListView
+                </string>
+                <string name="hello" >Hello World, HelloListView!
+                </string>
+            </file>
+        </source>
+        <source path="C:\Users\jgillis\Downloads\HelloListView\app\build\res\rs\debug" />
+        <source path="C:\Users\jgillis\Downloads\HelloListView\app\build\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\jgillis\Downloads\HelloListView\app\src\debug\res" />
+    </dataSet>
+
+</merger>
